@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "c889a08e023986f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "409c02b589d7f6d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb165007b16fe0bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9cc87e4686ab9369",
+    "type": "split",
+    "children": [
+      {
+        "id": "249cca4bde121dea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe13ee456e8f19e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be8636e6a2bf7034",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8809d62839e11334",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4800e8df0c8f2654",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd83b92410f3b751",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb25af12fa8775e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2d9184b6d0adc22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82326e4d0c231ada",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c41657d8dab8ed1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fb165007b16fe0bf",
+  "lastOpenFiles": [
+    "面试题整理/c++/2、内存篇.md",
+    "面试题整理/数据结构/链表/附件/Pasted image 20231107140744.png",
+    "面试题整理/数据结构/链表/附件/Pasted image 20231107112322.png",
+    "面试题整理/数据结构/链表/附件/Pasted image 20231107095403.png",
+    "面试题整理/数据结构/链表/附件/Pasted image 20231107092115.png",
+    "面试题整理/数据结构/链表/附件/Pasted image 20231107090302.png",
+    "面试题整理/数据结构/链表/附件/Pasted image 20231030132534.png",
+    "面试题整理/数据结构/链表/附件/206.翻转链表.gif",
+    "面试题整理/数据结构/链表/附件/1698642418368.png",
+    "面试题整理/数据结构/栈和队列/附件/Pasted image 20231214134554.png",
+    "面试题整理/数据结构/栈和队列/附件/Pasted image 20231214132326.png",
+    "面试题整理/数据结构/链表/附件",
+    "面试题整理/数据结构/链表/常见题.md",
+    "面试题整理/数据结构/链表/单链表代码.md",
+    "面试题整理/数据结构/栈和队列/附件",
+    "面试题整理/数据结构/栈和队列/常见题.md",
+    "面试题整理/数据结构/数组/附件",
+    "面试题整理/数据结构/数组/理论.md",
+    "面试题整理/数据结构/数组/数组常见题.md",
+    "面试题整理/数据结构/排序/附件",
+    "面试题整理/数据结构/排序/排序算法.md",
+    "面试题整理/数据结构/字符串/附件",
+    "面试题整理/数据结构/字符串/常见题.md",
+    "面试题整理/数据结构/字符串/KMP算法原理和代码实现.md",
+    "面试题整理/数据结构/哈希表/附件",
+    "面试题整理/数据结构/哈希表/理论和常见题.md",
+    "面试题整理/数据结构/动态规划/股票最佳买卖时机.md",
+    "面试题整理/数据结构/动态规划/子序列的问题.md",
+    "面试题整理/数据结构/动态规划/01背包理论.md",
+    "面试题整理/数据结构/二叉树/附件",
+    "面试题整理/数据结构/二叉树/二叉树的属性.md",
+    "面试题整理/数据结构/二叉树/二叉树的公共祖先问题.md",
+    "面试题整理/数据结构/二叉树/二叉树的修改和构造.md",
+    "面试题整理/数据结构/二叉树/二叉树理论基础.md",
+    "面试题整理/数据结构/二叉树/二叉搜索树的属性.md",
+    "面试题整理/数据结构/二叉树/二叉搜索树的修改和构造.md",
+    "面试题整理/计算机网络/附件",
+    "面试题整理/计算机网络/UDP协议和TCP协议.md",
+    "面试题整理/计算机网络/IP基础.md",
+    "面试题整理/计算机网络/HTTP和HTTPS.md",
+    "面试题整理/数据结构/链表",
+    "面试题整理/数据结构/贪心算法",
+    "面试题整理/Qt/9、对QObject的理解.md",
+    "面试题整理/Qt/99、QWidget和QML的技术本质和使用上，有什么区别？.md",
+    "面试题整理/Qt/98、Qt Socket通信的过程.md",
+    "面试题整理/Qt/97、Qt设计界面有哪些方式？.md"
+  ]
+}
